@@ -22,3 +22,5 @@ Ekranlar
 * Ana Sayfa: Besinler hakkında bilgi veren gönderiler görüntülenir.
 * Diyet Listesi: Hastalar, diyetisyenlerinden gelen diyet listelerini görebilir ve takip edebilir.
 * Takip Sistemi: Diyetisyenler, hastalarını takip edebilir ve onlara diyet listesi gönderebilir.
+
+  issues e görselleri eklenmiştir.
